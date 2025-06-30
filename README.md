@@ -41,8 +41,11 @@ resetBtn.onclick = function () {
   count = 0;
   countLabel.textContent = count;
 };
+
+
 ⚙️ Instructions
 1️⃣ Ajoute le code HTML dans ton fichier .html
+
 2️⃣ Ajoute le JavaScript dans un fichier .js et relie-le dans ton HTML :
 
 html
@@ -50,6 +53,7 @@ Copier
 Modifier
 <script src="script.js"></script>
 3️⃣ Ouvre le fichier dans ton navigateur
+
 4️⃣ Clique sur les boutons pour manipuler le compteur
 
 💡 Améliorations possibles
